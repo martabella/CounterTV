@@ -1,10 +1,3 @@
-//
-//  CounterTVApp.swift
-//  CounterTV
-//
-//  Created by Marta Bella on 26/11/25.
-//
-
 import SwiftUI
 
 @main
